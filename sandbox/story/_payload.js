@@ -1,0 +1,1 @@
+export default {data:{"content-query-n9T6Cgp2aT":null},prerenderedAt:void 0}

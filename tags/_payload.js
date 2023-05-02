@@ -1,0 +1,1 @@
+export default {data:{tags:[{tags:["ithome-ironman","issue","bug"]}]},prerenderedAt:void 0}

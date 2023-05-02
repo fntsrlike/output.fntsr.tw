@@ -1,0 +1,1 @@
+export default {data:{"content-query-ipV8BARxi7":null},prerenderedAt:void 0}
