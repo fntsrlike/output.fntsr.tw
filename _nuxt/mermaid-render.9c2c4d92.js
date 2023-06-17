@@ -1,0 +1,1 @@
+import{m as r}from"./mermaid-b0ad2de1.b45c6acf.js";import{r as e}from"./entry.5498e93d.js";import"./_commonjsHelpers.726de751.js";import"./isArray.8e723eb8.js";const p={__name:"mermaid-render",setup(a){return r.initialize({startOnLoad:!0}),r.init(),(t,i)=>e(t.$slots,"default")}};export{p as default};

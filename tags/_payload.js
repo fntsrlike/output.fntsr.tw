@@ -1,1 +1,1 @@
-export default {data:{tags:[{tags:["ithome-ironman","issue","bug"]}]},prerenderedAt:void 0}
+export default (function(a){return {data:{tags:[{tags:[]},{tags:[]},{tags:[]},{tags:["ithome-ironman","issue","bug"]},{tags:[]},{tags:["digital-garden",a]},{tags:["map-of-contents",a]},{tags:[a]},{tags:["zettelkasten",a]},{tags:[]},{tags:[]},{tags:[]},{tags:[]}]},prerenderedAt:void 0}}("knowledge"))

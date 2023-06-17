@@ -1,1 +1,0 @@
-import o from"./welcome.3f8d91ec.js";import{N as t,o as c,b as n,S as r}from"./entry.ef07ec96.js";/* empty css                                                                */const _={};function m(s,a){const e=o;return c(),n("div",null,[r(e)])}const i=t(_,[["render",m]]);export{i as default};

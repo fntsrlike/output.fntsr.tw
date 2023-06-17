@@ -1,1 +1,0 @@
-import t from"./ContentRenderer.6b477ecf.js";import{j as n,o as s,b as r,S as a}from"./entry.ef07ec96.js";const c={class:"my-4"},i=n({__name:"PostContent",props:{post:null},setup(e){return(p,_)=>{const o=t;return s(),r("div",c,[a(o,{value:e.post,class:"prose dark:prose-invert"},null,8,["value"])])}}});export{i as _};

@@ -1,0 +1,1 @@
+const t={headerTitle:"\u6DF1\u85CF\u82E5\u865B",headerSubTitle:"Digital Garden of Yuehu",socialMedias:{email:"me@fntsr.tw",github:"https://github.com/fntsrlike",twitter:"",facebook:"",youtube:"",linkedin:"https://www.linkedin.com/in/fntsrlike/"}};export{t as s};
