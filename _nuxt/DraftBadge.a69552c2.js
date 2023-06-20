@@ -1,0 +1,1 @@
+import{a as e,o as t,p as o}from"./entry.93e3992e.js";const n={},r={class:"bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-yellow-900 dark:text-yellow-300"};function c(s,a){return t(),o("span",r,"Draft")}const l=e(n,[["render",c]]);export{l as default};

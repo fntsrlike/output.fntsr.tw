@@ -1,1 +1,0 @@
-import{K as d}from"./entry.d45912a7.js";const s=/\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z/,r=(t,e)=>d(t).only(["title","title_en","created_at","published_at","_path"]).where({published_at:{$eq:s}}).limit(e).sort({created_at:-1,published_at:-1}).find(),o=()=>({quertRecentlyPosts:r});export{o as u};
