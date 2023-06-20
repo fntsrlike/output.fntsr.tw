@@ -1,0 +1,1 @@
+import{a as e,o as n,p as s,r as a}from"./entry.c306d37f.js";const o={},r={class:"tracking-tight font-medium text-gray-700 dark:text-gray-300 sm:text-xl sm:leading-8 sm:mb-2 text-lg leading-7 mb-2"};function c(t,_){return n(),s("h2",r,[a(t.$slots,"default")])}const m=e(o,[["render",c]]);export{m as default};
