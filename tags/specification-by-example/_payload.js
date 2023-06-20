@@ -1,0 +1,1 @@
+export default {data:{$IF69Shxbt5:[]},prerenderedAt:void 0}

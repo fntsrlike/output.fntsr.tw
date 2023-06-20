@@ -1,1 +1,0 @@
-import o from"./welcome.cd3f7da2.js";import{N as t,o as c,b as n,Y as r}from"./entry.5498e93d.js";/* empty css                                                                */const _={};function m(s,a){const e=o;return c(),n("div",null,[r(e)])}const i=t(_,[["render",m]]);export{i as default};

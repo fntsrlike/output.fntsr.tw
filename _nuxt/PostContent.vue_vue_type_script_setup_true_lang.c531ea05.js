@@ -1,0 +1,1 @@
+import t from"./ContentRenderer.c4457907.js";import{b as n,o as s,p as r,Z as a}from"./entry.d45912a7.js";const c={class:"my-4 break-word"},i=n({__name:"PostContent",props:{post:null},setup(e){return(p,_)=>{const o=t;return s(),r("div",c,[a(o,{value:e.post,class:"prose dark:prose-invert"},null,8,["value"])])}}});export{i as _};
